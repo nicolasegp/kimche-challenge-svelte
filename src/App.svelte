@@ -1,7 +1,7 @@
 <script>
 	import './assets/spectre.min.css';
 	import './assets/icons.min.css';
-	import './assets/web.css';
+	// import './assets/web.css';
 	import { onMount } from 'svelte';
 	import getData from './api';
 	import Form from './components/Form.svelte';
@@ -23,6 +23,19 @@
 		}
 	});
 </script>
+
+<!-- <style global>
+	body {
+		background: #f7f8f9;
+	}
+	.loading {
+		margin-top: 2rem;
+	}
+	.card {
+		box-shadow: 0 0.2rem 0.5rem rgb(48 55 66 / 30%);
+		background: #fff;
+	}
+</style> -->
 
 <main class="container grid-md my-2">
 	{#if loading}
