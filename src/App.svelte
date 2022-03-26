@@ -25,7 +25,7 @@
 
 <style>
 	:global(body) {
-		background: #f7f8f9;
+		background: #f7f8f9 !important;
 	}
 	:global(.card) {
 		box-shadow: 0 0.2rem 0.5rem rgb(48 55 66 / 30%);
