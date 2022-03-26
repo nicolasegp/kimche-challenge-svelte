@@ -2,12 +2,12 @@
 	export let pais;
 </script>
 
-<!-- <style>
+<style>
 	ul {
 		list-style: none;
 		margin: 0;
 	}
-</style> -->
+</style>
 
 <div class="column col-6 col-sm-12 my-2">
 	<div class="card">

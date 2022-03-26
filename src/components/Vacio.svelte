@@ -3,7 +3,7 @@
 	paises; // []
 </script>
 
-<!-- <style>
+<style>
 	.empty {
 		box-shadow: 0 0.2rem 0.5rem rgb(48 55 66 / 20%);
 		background: #fff;
@@ -12,7 +12,7 @@
 		font-size: 1.5rem;
 		font-weight: bold;
 	}
-</style> -->
+</style>
 
 <div class="empty">
 	<div class="empty-icon">
