@@ -7,9 +7,7 @@
 
 ## Comparación
 
-- **React**
-  - bundle JS: 306 KB
-  - bundle CSS: 57 KB
-- **Svelte**
-  - bundle JS: 14 KB
-  - bundle CSS: 56 KB
+| Framework | Bundle JS | Bundle CSS |
+|-----------|:---------:|:----------:|
+| React     |   306 KB  |    57 KB   |
+| Svelte    |   14 KB   |    56 KB   |
