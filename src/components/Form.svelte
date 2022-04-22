@@ -33,4 +33,9 @@
 			</div>
 		</div>
 	</div>
+	<div class="card-footer text-right">
+		<small>
+			<a href="https://github.com/nicolasegp/kimche-challenge-svelte">View in Github</a>
+		</small>
+	</div>
 </section>
